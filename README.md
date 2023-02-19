@@ -1,2 +1,2 @@
 # IBM-DS-Capstone
-Used for IBM certification 
+Github collection for IBM Capstone
