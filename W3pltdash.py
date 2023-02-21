@@ -9,7 +9,7 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 
 # Read the airline data into pandas dataframe
-spacex_df = pd.read_csv("4. Data Visualization - Plotly Dash data: spacex_csv")
+spacex_df = pd.read_csv("4. Data Visualization - Plotly Dash data: spacex.csv")
 
 #Minimum and maximum Payload masses for the range slider
 max_payload = spacex_df['Payload Mass (kg)'].max()
